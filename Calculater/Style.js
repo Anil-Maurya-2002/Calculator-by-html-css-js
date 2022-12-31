@@ -18,7 +18,6 @@ for (item of buttons) {
             screen.value = eval(screenValue);
         }
         else {
-            
             screenValue += buttonText;
             screen.value = screenValue;
         }
